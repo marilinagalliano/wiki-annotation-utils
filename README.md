@@ -55,7 +55,7 @@ public class UsuarioServiceTest {
 
 ## Integración a APIs RESTful
 
-Si estás usando Maven, primero instalá el artefacto localmente, agregás en el pom.xml de la API RESTful como plugin y ejecutás el comando
+Si estás usando Maven, primero se instala el artefacto localmente, lo agregás en el `pom.xml` de la API RESTful como plugin y ejecutás el comando
 
 ```bash
 mvn verify
